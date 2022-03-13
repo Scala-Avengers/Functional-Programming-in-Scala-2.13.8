@@ -3,3 +3,4 @@
 *.cache
 Functional-Programming-in-Scala-2.13.8-Essentials/target/
 Functional-Programming-in-Scala-2.13.8-Essentials/*/target/
+.idea/
