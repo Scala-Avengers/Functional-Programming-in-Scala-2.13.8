@@ -1,0 +1,1 @@
+This package covers Scala basics for **'values_variables_types'**
