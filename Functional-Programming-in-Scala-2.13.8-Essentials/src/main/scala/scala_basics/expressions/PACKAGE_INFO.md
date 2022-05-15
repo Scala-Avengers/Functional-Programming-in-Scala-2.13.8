@@ -1,0 +1,1 @@
+This package covers Scala basics for **'expressions'**
