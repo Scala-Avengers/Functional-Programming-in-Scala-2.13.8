@@ -1,0 +1,1 @@
+This package covers details about **Functions** in **'Scala Functional Programming'**
